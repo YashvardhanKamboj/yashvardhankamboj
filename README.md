@@ -27,15 +27,15 @@
 
 ```yaml
 name: "Yashvardhan Kamboj"
-location: "Australia 🇦🇺"  # ← update this
+location: "Australia 🇦🇺"  
 focus:
   - Building production-grade web applications
   - Designing cloud-native architectures
   - Automating everything that can be automated
 currently:
   building: "Prototypes, scripting, and small apps."    
-  learning: "Rust / WebAssembly"     # ← update this
-  reading: "Designing Data-Intensive Applications"  # ← update this
+  learning: "Rust / WebAssembly"     
+  reading: "Designing Data-Intensive Applications"  
 principles:
   - "Infrastructure as Code > ClickOps"
   - "Observability > Debugging in prod"
